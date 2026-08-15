@@ -385,7 +385,7 @@ restaurant-chain-vs-local-sao-paulo-analysis/
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/SEU-USUARIO/restaurant-chain-vs-local-sao-paulo-analysis.git
+git clone https://github.com/SEU-USUARIO/restaurant-chain-vs-local-sao-paulo-analysis.git](https://github.com/Rayjunqueiraf/restaurante-rede-vs-local-sao-paulo-analysis.git
 ```
 
 ### 2. Instale as dependências
